@@ -1,0 +1,117 @@
+/* finders keepers */
+
+.\\-fk-warning,
+.\\-fk-error,
+.\\-fk-information,
+.\\-fk-message,
+.\\-fk-success,
+.\\-fk-pagewarning,
+.\\-fk-green,
+.\\-fk-red,
+.\\-fk-yellow
+{
+  border-radius: 4px
+}
+
+
+.\\-fk-orange
+{
+  color: #E6C26E
+}
+
+.\\-fk-red,
+.\\-fk-text-red,
+a.\\-fk-text-red,
+table.\\-fk-pagetable a.\\-fk-text-red
+{
+  color: #AE432E
+}
+
+.\\-fk-blue
+{
+  color: #058DC7
+}
+
+.\\-fk-message,
+.\\-fk-pagewarning,
+.\\-fk-pagemcontainer,
+.\\-fk-pageerrorcontainer,
+.\\-fk-pageerrorinstalldir,
+.\\-fk-green,
+.\\-fk-red,
+.\\-fk-yellow,
+.\\-fk-warning,
+.\\-fk-information
+{
+  display: inline-block;
+  width: auto;
+  font-size: 14px;
+  padding: 10px 10px 10px 40px;
+  margin: 10px 0
+}
+
+.\\-fk-pagewarning.\\-fk-hidden
+{
+  display: none
+}
+
+.\\-fk-dialog .\\-fk-green,
+.\\-fk-dialog .\\-fk-red,
+.\\-fk-dialog .\\-fk-yellow,
+.\\-fk-dialog .\\-fk-orange
+{
+  display: block
+}
+
+.\\-fk-green,
+.\\-fk-red,
+.\\-fk-yellow,
+.\\-fk-orange
+{
+  padding: 10px;
+}
+
+.\\-fk-yellow
+{
+  background: #FAF6D4;
+  color: #E6C26E;
+  border: 1px solid #E6C26E
+}
+
+.\\-fk-error,
+.\\-fk-pageerrorcontainer,
+.\\-fk-red
+{
+  background: #F2D4CE;
+  color: #AE432E;
+  border: 1px solid #AE432E
+}
+
+.\\-fk-green
+{
+  background: #D9E6C3;
+  color: #77AB13;
+  border: 1px solid #77AB13
+}
+
+.\\-fk-message:hover
+{
+  cursor: help
+}
+
+.\\-fk-warning p,
+.\\-fk-pagewarning p,
+.\\-fk-message p
+{
+  color: #232323;
+  margin: 0;
+  font-size: 14px
+}
+
+.\\-fk-warning h3,
+.\\-fk-pagewarning h3
+{
+  margin: 2px 0;
+  font-size: 14px;
+  color: #E6C26E
+}

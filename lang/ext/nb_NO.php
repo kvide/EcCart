@@ -1,0 +1,33 @@
+<?php
+$lang['add_to_cart'] = 'Legg til min handlekurv';
+$lang['amount'] = 'Mengde';
+$lang['delete'] = 'Slett';
+$lang['description'] = 'Beskrivelse';
+$lang['empty_cart'] = 'Fjern alle varer';
+$lang['error_cartpolicy_additem'] = 'Kan ikke legge denne varen til hanldekurven. See nettstedets handlevognregler';
+$lang['free_product'] = 'Fri vare';
+$lang['friendlyname'] = 'Cart';
+$lang['infosubtotal'] = 'Dette er en sub-total. Avgifter og forsendleseskostnader blir kalkulert ved utsjekking';
+$lang['my_cart'] = 'Min handlekurv';
+$lang['no'] = 'Nei';
+$lang['none'] = 'Ingen';
+$lang['number'] = 'Antall';
+$lang['number_of_items'] = 'Antall varer';
+$lang['preferences'] = 'Preferanser';
+$lang['price'] = 'Pris';
+$lang['product_id'] = 'Produkt ID';
+$lang['quantity'] = 'Mengde';
+$lang['remove'] = 'Fjern';
+$lang['sku'] = 'SKU';
+$lang['submit'] = 'Utfør';
+$lang['subtotal'] = 'Sub-total';
+$lang['summary'] = 'Sammendrag';
+$lang['shipping'] = 'Forsendelse';
+$lang['shipping_module'] = 'Forsendelsesmodul';
+$lang['total'] = 'Total';
+$lang['total_weight'] = 'Total vekt';
+$lang['unit_price'] = 'Enhetspris';
+$lang['weight'] = 'Vekt';
+$lang['yes'] = 'Ja';
+$lang['yousave'] = 'Du sparer';
+?>

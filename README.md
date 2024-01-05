@@ -1,7 +1,7 @@
 # EcCart
 
 Webshop cart module for the [EcommerceExt](../../../EcommerceExt) E-commerce extension for
-[CMS Mase Simple](https://www.cmsmadesimple.org/).
+[CMS Made Simple](https://www.cmsmadesimple.org/).
 
 
 ## Installing

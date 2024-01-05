@@ -15,10 +15,13 @@ to upload the unzipped XML file to your server.
 The module will only install on servers running CMSMS v2.2.19 on PHP 8.0 or newer. The software may run on older
 versions of CMSMS or PHP, but the checks in MinimumCMSVersion() and method.install.php would need to be tweaked.
 
-[!TIP]Update to latest version of CMSMS and PHP to keep your installation secure.
+> [!TIP]
+> Update to latest version of CMSMS and PHP to keep your installation secure.
 
 
 ## Using the module
+
+The cart can be set as a cart module in EcommerceExt extension.
 
 ### Compatibility 
 
